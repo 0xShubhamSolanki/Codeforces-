@@ -12,7 +12,7 @@ The goal of these templates is to provide **fast I/O**, **clean structure**, and
 
 ---
 
-## 🚀 1. Super Short Java EXPERT CP Template
+## 1. Super Short Java EXPERT CP Template
 
 A minimal, extremely fast, and beginner-friendly Java template.
 
@@ -33,7 +33,7 @@ When you want very short, fast code and only need simple tools.
 
 ---
 
-## ⚡ 2. MASTER + Powerful Template
+## 2. MASTER + Powerful Template
 
 A compact but highly functional CP template.  
 Balanced for speed and flexibility.
@@ -59,7 +59,7 @@ When problem difficulty increases and basic template is not enough.
 
 ---
 
-## 🔥 3. Ultimate LGM Java CP Template
+## 3. Ultimate LGM Java CP Template
 
 A complete competitive programming template.  
 Used by high-rated coders (Expert → Master level).
@@ -93,5 +93,4 @@ When you want EVERYTHING ready before a contest starts.
 
 ---
 
-## 📁 Recommended Folder Structure
 
